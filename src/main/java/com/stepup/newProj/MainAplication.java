@@ -11,6 +11,8 @@ public class MainAplication {
         System.out.println(1);
         System.out.println(0);
         System.out.println(0);
+        System.out.println(33);
+        System.out.println(44);
     }
 }
 
