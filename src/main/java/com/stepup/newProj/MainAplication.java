@@ -9,9 +9,7 @@ public class MainAplication {
     }
 
     public static void doSomething() {
-        System.out.println(0);
-        System.out.println(1);
-        System.out.println(1);
+        System.out.println("Hello World");
     }
 }
 
